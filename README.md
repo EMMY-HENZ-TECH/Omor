@@ -1,10 +1,4 @@
-<a href="https://ibb.co/54mBPqB"><img src="https://i.ibb.co/kBjQtYQ/file-Ehszv8-MWUg-UCnohr-I0akh83r.webp" alt="file-Ehszv8-MWUg-UCnohr-I0akh83r" border="0"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐇𝐀𝐂𝐊+𝐙𝐎𝐍𝐄!)](https://git.io/typing-svg)
-
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐌𝐌𝐘+𝐇𝐄𝐍𝐙)](https://git.io/typing-svg)
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,10 +15,10 @@
         }
 
         .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* Two items per row */
             gap: 20px;
+            justify-items: center;
             padding: 20px;
         }
 
@@ -151,63 +145,6 @@
             <div>BETTING PREDICTION</div>
             <small>sporty,1xbet</small>
         </a>
-<a href="https://emmy-henz-tech.github.io/PHISHING-CODES-FOR-TERMUX/" class="card">
-            <img src="https://i.ibb.co/rG5NKHq/IMG-20241026-WA0389.jpg" alt="Termux Icon">
-            <div>FAKE RECIEPT</div>
-            <small>FAKE RECEIPT</small>
-        </a>
-<a href="https://emmy-henz-tech.github.io/PHISHING-CODES-FOR-TERMUX/" class="card">
-            <img src="https://i.ibb.co/rG5NKHq/IMG-20241026-WA0389.jpg" alt="Termux Icon">
-            <div>TERMUX COMMANDS</div>
-            <small>TERMUX CMDS</small>
-        </a>
-<a href="https://emmy-henz-tech.github.io/OTHER-MENU/" class="card">
-            <img src="https://i.ibb.co/PNB7YQM/IMG-20241115-WA0163.jpg" alt="Virus Icon">
-            <div>OTHER MENU</div>
-            <small>OTHER MENU</small>
-        </a>
-<a href="https://ytdl.giftedtech.my.id" class="card">
-            <img src="https://i.ibb.co/j4Wn45L/IMG-20241115-WA0165.jpg" alt="yt Icon">
-            <div>YT DOWNLOADER</div>
-            <small>YT DOWNLOADER</small>
-        </a>
-<a href="https://emmy-henz-tech.github.io/VIRUS-MENU/" class="card">
-            <img src="https://i.ibb.co/PNB7YQM/IMG-20241115-WA0163.jpg" alt="Virus Icon">
-            <div>VIRUS MENU</div>
-            <small>VIRUS MENU</small>
-        </a>
-<a href="https://emmy-henz-tech.github.io/CAPCUT-PRO-ACC/" class="card">
-            <img src="https://i.ibb.co/82HwtdZ/IMG-20241115-WA0161.jpg" alt="Capcut Icon">
-            <div>CAPCUT PRO ACC</div>
-            <small>CAPCUT PRO ACC</small>
-        </a>
-<a href="https://emmy-henz-tech.github.io/WHATSAPP-MODS-ANTIBUG/" class="card">
-            <img src="https://i.ibb.co/82HwtdZ/IMG-20241115-WA0161.jpg" alt="Termux Icon">
-            <div>WHATSAPP MODS</div>
-            <small>WHATSAPP MODS</small>
-        </a>
-    </div>
-
-    <!-- MESSAGE OWNER -->
-    <div class="https://t.me/EmmyHenz">
-        <a href="https://t.me/EMMYHENZTECHINFO" class="small-box">
-            <img src="https://i.ibb.co/hdPBhnw/IMG-20241115-WA0014.jpg" alt="Telegram Icon">
-            Telegram
-        </a>
-        <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" class="small-box">
-            <img src="https://i.ibb.co/Rhg6K6p/IMG-20241115-WA0015.jpg" alt="WhatsApp Icon">
-            WhatsApp
-        </a>
-        <a href="https://www.youtube.com/@EMMYHENZTECHINFO" class="small-box">
-            <img src="https://i.ibb.co/VT1JMVc/IMG-20241115-WA0013.jpg" alt="YouTube Icon">
-            YouTube
-        </a>
-    </div>
-
-    <div class="OWNER">
-        <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C">Join channel</a>
     </div>
 </body>
 </html>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐕𝐄𝐑𝐒İ𝐎𝐍+3.0)](https://git.io/typing-svg)
