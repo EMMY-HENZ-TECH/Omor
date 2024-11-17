@@ -1,150 +1,137 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+FAKE+PAYMENT+MENU!)](https://git.io/typing-svg)
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hack Zone</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: url('https://i.ibb.co/vk3M5Jq/file-tuoosr-Gs-Dwf-Tv-XZz7-HK6rn2z-3.webp') no-repeat center center fixed;
-            background-size: cover;
-            color: #333;
-        }
-
-        .container {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr); /* Two items per row */
-            gap: 20px;
-            justify-items: center;
-            padding: 20px;
-        }
-
-        .header {
-            text-align: center;
-            font-size: 24px;
-            font-weight: bold;
-            margin: 20px 0;
-            color: #fff;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
-        }
-
-        .card {
-            width: 150px;
-            height: 150px;
-            background-color: rgba(0, 123, 255, 0.8); /* Semi-transparent blue */
-            border-radius: 15px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-            text-align: center;
-            cursor: pointer;
-            text-decoration: none;
-            color: #fff;
-            font-weight: bold;
-        }
-
-        .card:hover {
-            background-color: rgba(0, 123, 255, 1); /* Fully opaque blue on hover */
-        }
-
-        .card img {
-            width: 60px;
-            height: 60px;
-            margin-bottom: 10px;
-            border-radius: 10px;
-        }
-
-        .footer-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin: 20px 0;
-        }
-
-        .small-box {
-            width: 100px;
-            height: 100px;
-            background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
-            border-radius: 10px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-            cursor: pointer;
-            text-decoration: none;
-            text-align: center;
-            color: #333;
-            font-weight: bold;
-        }
-
-        .small-box:hover {
-            background-color: rgba(200, 200, 200, 1); /* Light gray on hover */
-        }
-
-        .small-box img {
-            width: 50px;
-            height: 50px;
-            margin-bottom: 5px;
-        }
-
-        .footer {
-            text-align: center;
-            margin: 20px 0;
-        }
-
-        .footer a {
-            text-decoration: none;
-            color: #fff;
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 10px 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-        }
-
-        .footer a:hover {
-            background-color: rgba(0, 0, 0, 1);
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hack Store</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('https://i.ibb.co/PNB7YQM/IMG-20241115-WA0163.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0 10px;
+      box-sizing: border-box;
+      color: #333;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      width: 100%;
+      max-width: 800px;
+      background-color: rgba(255, 255, 255, 0.85);
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .box {
+      background-color: #e3f3e3;
+      color: #333;
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: background-color 0.3s;
+    }
+    .box:hover {
+      background-color: #d1e7d1;
+    }
+    @media (max-width: 768px) {
+      .container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    @media (max-width: 480px) {
+      .container {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 <body>
-    <div class="header">HACK ZONE</div>
-    <div class="container">
-        <a href="https://emmyhenz-tech.github.io/CHECK-YOUR-PERSONAL-TY/" class="card">
-            <img src="https://i.ibb.co/1RjFCzZ/IMG-20241115-WA0162.jpg" alt="Personality Icon">
-            <div>PERSONALITY</div>
-            <small>PERSONALITY</small>
-        </a>
-        <a href="https://emmy-henz-tech.github.io/MOVIE-ZONE/" class="card">
-            <img src="https://i.ibb.co/2y7V9pd/IMG-20241115-WA0157.jpg" alt="MOVIE Icon">
-            <div>MOVIE SITE</div>
-            <small>Apps</small>
-        </a>
-        <a href="https://emmy-henz-tech.github.io/HACK-ZONE-APK/" class="card">
-            <img src="https://i.ibb.co/SNv7CyM/IMG-20241115-WA0159.jpg" alt="Hack Icon">
-            <div>hack</div>
-            <small>HACKING TOOLS</small>
-        </a>
-        <a href="https://emmy-henz-tech.github.io/BUG-MENU-/" class="card">
-            <img src="https://i.ibb.co/SRBXwM0/IMG-20241115-WA0160.jpg">
-            <div>BUG SCRIPT</div>
-            <small>BUG SCRIPTS</small>
-        </a>
-        <a href="https://emmy-henz-tech.github.io/PREMIUM-APK/" class="card">
-            <img src="https://i.ibb.co/Np9LBsY/IMG-20241115-WA0166.jpg" alt="Premium Icon">
-            <div>PREMIUM APK</div>
-            <small>PREMIUM APKS</small>
-        </a>
-        <a href="https://emmy-henz-tech.github.io/PHISHING-CODES-FOR-TERMUX/" class="card">
-            <img src="https://i.ibb.co/rG5NKHq/IMG-20241026-WA0389.jpg" alt="Termux Icon">
-            <div>BETTING PREDICTION</div>
-            <small>sporty,1xbet</small>
-        </a>
-    </div>
+  <div class="container">
+    <a href="https://www.mediafire.com/file/22y2z429nnttib5/EASY+PAYSA+🔥.apk/file" class="box">Easy Paisa Fake Receipt</a>
+    <a href="https://www.mediafire.com/file/z2y7xo76zbg1716/JAZCASH+🔥.apk/file" class="box">Jazz Fake Receipt</a>
+    <a href="https://www.mediafire.com/file/tw76ims0fk7xs7g/OPay_v1.0.apk/file" class="box">Opay Clone</a>
+  </div>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hack Store</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0 10px; /* Add padding for mobile */
+      box-sizing: border-box;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      width: 100%;
+      max-width: 800px;
+    }
+    .box {
+      background-color: #007bff; /* Blue color */
+      color: #fff; /* White text color for contrast */
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: background-color 0.3s;
+    }
+    .box:hover {
+      background-color: #0056b3; /* Darker blue on hover */
+    }
+    @media (max-width: 768px) {
+      .container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    @media (max-width: 480px) {
+      .container {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+  </div>
 </body>
 </html>
+  
+
+  <p align="left">
+    <a aria-label="Join our group for updates" href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" target="_blank">
+      <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    Incase of any issues, contact me t.me/EmmyHenz via telegram.
+  </p>
+  <p>=========================================<br>
+
+     
+  </p>
+</body>
+</html>
+
